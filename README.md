@@ -38,7 +38,7 @@ I’m open to collaborations and discussions on exciting data science and machin
 📫 **Contact Me**  
 - Email: sikandarali43211@gmail.com 
 - LinkedIn: [https://www.linkedin.com/in/sikandar-a-034b61211 
-- GitHub: [https://github.com/sikandardatasientist123  
+- GitHub: [https://github.com/sikandardatascientist123  
 
 ---
 
@@ -46,7 +46,7 @@ I’m open to collaborations and discussions on exciting data science and machin
   
 - GitHub: [github.com/sikandar-ali](https://github.com/sikandar-ali)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikandardatasientist123)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikandardatascientist123)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *Transforming data into actionable insights and intelligent solutions.*
